@@ -1,0 +1,10 @@
+{
+  "name": "firely-agent-skills",
+  "description": "Reusable skills by Firely for FHIR workflows, validation, and implementation guidance.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Firely Team"
+  },
+  "repository": "https://github.com/FirelyTeam/skills",
+  "license": "MIT"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "firely-agent-skills",
+  "owner": {
+    "name": "Firely Team"
+  },
+  "plugins": [
+   {
+      "name": "example-skills",
+      "description": "Reusable skills by Firely for FHIR workflows, validation, and implementation guidance.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/fhir-validation"
+      ]
+    }
+  ]
+}
