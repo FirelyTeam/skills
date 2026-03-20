@@ -5,7 +5,7 @@
   },
   "plugins": [
    {
-      "name": "example-skills",
+      "name": "firely-skills",
       "description": "Reusable skills by Firely for FHIR workflows, validation, and implementation guidance.",
       "source": "./",
       "strict": false,
